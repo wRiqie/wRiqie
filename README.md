@@ -10,6 +10,6 @@
 
 ### Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Code-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Database-Sql-informational?style=flat&logo=sql&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=1A1B27)
+![](https://img.shields.io/badge/Code-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=1A1B27)
+![](https://img.shields.io/badge/Database-Sql-informational?style=flat&logo=sql&logoColor=white&color=1A1B27)
