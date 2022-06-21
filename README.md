@@ -6,7 +6,7 @@
 
 ## About
 - My name is Henrique, I'm technical in systems development 
-- I've been working as a mobile developer for 1 year, initially with xamarin, and now with flutter
+- I've been working as a mobile developer for 1 year and 4 months, initially with xamarin, and now with flutter
 
 ### Technologies & Tools
 
