@@ -1,8 +1,7 @@
 # Welcome to my Github profile.
 <a href="https://github.com/wRiqie/wRiqie">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wRiqie&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=tokyonight"/>
-</a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wRiqie&layout=compact&langs_count=7&theme=dark"/>
+</a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wRiqie&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ## About
 - 🔭 I am currently working with mobile development using flutter
