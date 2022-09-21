@@ -6,11 +6,12 @@
 
 ## About
 - My name is Henrique, I'm technical in systems development 
-- I've been working as a mobile developer for 1 year and 4 months, initially with xamarin, and now with flutter
+- I've been working as a mobile developer for over 1 year, initially with xamarin, and now with flutter and ionic
 
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=1A1B27)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Ionic&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/Code-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/Database-SqlServer-informational?style=flat&logo=sql&logoColor=white&color=1A1B27)
