@@ -1,8 +1,9 @@
 # Welcome to my Github profile.
 <div align="center">
 <a href="https://github.com/wRiqie/wRiqie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wRiqie&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=tokyonight"/>
-</a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wRiqie&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api? username=wRiqie&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=tokyonight"/>
+</a>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wRiqie&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## About
