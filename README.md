@@ -7,7 +7,7 @@
 
 ## About
 - 🔭 I am currently working with mobile development using flutter
-- 🌱 I am studying Bloc and streams for flutter, and also learning ionic with angular
+- 🌱 I am studying kotlin for android
 - 📫 henrique5121@outlook.com | wriqie@gmail.com
 - ⚡ I started working with xamarin forms, consequently I ended up learning a little bit of the csharp language, at that time I used agile methods
 
